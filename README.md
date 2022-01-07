@@ -27,6 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
+https://github.com/Njabz-1/Tip-calculator-app/blob/main/images/Screenshot.JPG
 
 
 ### Links
