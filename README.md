@@ -27,13 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-https://github.com/Njabz-1/Tip-calculator-app/blob/main/images/Screenshot.JPG
+![Tip Calculator Solution] (images/Screenshot.JPG)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://njabz-1.github.io/Tip-calculator-app/
 
+## My process
 ### Built with
 
 - Semantic HTML5 markup
