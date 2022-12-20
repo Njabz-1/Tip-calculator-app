@@ -27,6 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
+
 ![Tip Calculator Solution] (images/Screenshot.JPG)
 
 
