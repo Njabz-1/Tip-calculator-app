@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 
-![](images\Screenshot.JPG)
+![Tip Calculator Solution](images/Screenshot.JPG)
 
 
 ### Links
