@@ -45,9 +45,3 @@ Users should be able to:
 ## Author
 
 Njabz :)
-
-## Acknowledgments
-
-MRZ.Code.Manufacture - Youtube
-
-sergii-moroz - GitHub
